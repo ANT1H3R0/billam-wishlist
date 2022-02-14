@@ -1,0 +1,230 @@
+{
+    "description": "S15 Iron Banner weapons",
+    "name": "billam-lost-ib",
+    "data": [
+        {
+            "description": "arrowhead / counterbalance recommended (probably both)\nstasis ele. capacitor + arrowhead or counterbalance is v epic\nrecommended mw: range",
+            "hash": 1076810832,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    3436462433,
+                    706527188,
+                    2946784966,
+                    1570042021
+                ],
+                [
+                    957782887,
+                    3425386926,
+                    2458213969,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "arrowhead / counterbalance recommended (probably both)\nstasis ele. capacitor + arrowhead or counterbalance is v epic\nrecommended mw: range",
+            "hash": 1076810832,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1570042021,
+                    3436462433
+                ],
+                [
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload",
+            "hash": 1076810832,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    1431678320,
+                    3230963543
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    3592538738,
+                    3425386926,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload",
+            "hash": 1076810832,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 829330711,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1467527085,
+                    202670084,
+                    1482024992
+                ],
+                [
+                    2846385770,
+                    2946784966,
+                    2450788523
+                ],
+                [
+                    957782887,
+                    4082225868,
+                    3523296417,
+                    438098033,
+                    124408337,
+                    591790007
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 829330711,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    438098033,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or reload",
+            "hash": 829330711,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    3230963543,
+                    1431678320
+                ],
+                [
+                    1820235745,
+                    972757866
+                ],
+                [
+                    3708227201,
+                    4082225868,
+                    3523296417,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or reload",
+            "hash": 829330711,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    3523296417,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}

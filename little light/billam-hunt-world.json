@@ -1,0 +1,513 @@
+{
+    "description": "S11 world drops",
+    "name": "billam-hunt-world",
+    "data": [
+        {
+            "description": "a top tier pulse that nobody talks about anymore because messenger exists. high impacts are extremely powerful, and being that stars gets every perk under the sun, you've got a lot of options. this is the energy pulse to look for if you're not a fan of rapid fires.\nrecommended mw: range or handling",
+            "hash": 2050789284,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    202670084,
+                    3250034553,
+                    1840239774,
+                    1467527085,
+                    4090651448
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    280464955,
+                    3436462433,
+                    2450788523,
+                    706527188
+                ],
+                [
+                    699525795,
+                    1015611457,
+                    460017080,
+                    588594999,
+                    3511092054,
+                    3523296417,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "a top tier pulse that nobody talks about anymore because messenger exists. high impacts are extremely powerful, and being that stars gets every perk under the sun, you've got a lot of options. this is the energy pulse to look for if you're not a fan of rapid fires.\nrecommended mw: range or handling",
+            "hash": 2050789284,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230,
+                    202670084,
+                    3250034553,
+                    1840239774
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    280464955,
+                    3436462433,
+                    706527188
+                ],
+                [
+                    699525795,
+                    1015611457,
+                    460017080,
+                    588594999,
+                    3511092054,
+                    3523296417,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "stars has some options for sure, but high impacts (other than messenger) are pretty weak in pve. look for a disruption break roll if anti-barrier pulse ever returns.\nrecommended mw: reload or handling",
+            "hash": 2050789284,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    4090651448,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    3230963543
+                ],
+                [
+                    2869569095,
+                    1168162263,
+                    2779035018,
+                    3436462433
+                ],
+                [
+                    1683379515,
+                    1015611457,
+                    3523296417,
+                    2848615171,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "stars has some options for sure, but high impacts (other than messenger) are pretty weak in pve. look for a disruption break roll if anti-barrier pulse ever returns.\nrecommended mw: reload or handling",
+            "hash": 2050789284,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100
+                ],
+                [
+                    2869569095,
+                    1168162263
+                ],
+                [
+                    1683379515,
+                    3523296417,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "completely outclassed by memory interdict and much harder to obtain.\nrecommended mw: velocity or blast radius",
+            "hash": 3565520715,
+            "name": "pvp",
+            "plugs": [
+                [
+                    3525010810,
+                    3798852852,
+                    1441682018,
+                    981914802
+                ],
+                [
+                    1380253176,
+                    2822142346
+                ],
+                [
+                    2450788523,
+                    3436462433,
+                    4071163871
+                ],
+                [
+                    2396489472,
+                    2726471870,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "completely outclassed by memory interdict and much harder to obtain.\nrecommended mw: velocity or blast radius",
+            "hash": 3565520715,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3436462433,
+                    4071163871
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "not the worst gl, but it's nothing special, and there are better options that are easier to obtain.\nrecommended mw: blast radius or velocity",
+            "hash": 3565520715,
+            "name": "pve",
+            "plugs": [
+                [
+                    1441682018,
+                    3525010810,
+                    3798852852,
+                    981914802
+                ],
+                [
+                    3301904089,
+                    2985827016
+                ],
+                [
+                    2010801679,
+                    2869569095,
+                    2284787283,
+                    4071163871
+                ],
+                [
+                    3523296417,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "not the worst gl, but it's nothing special, and there are better options that are easier to obtain.\nrecommended mw: blast radius or velocity",
+            "hash": 3565520715,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2010801679,
+                    2284787283
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "bungie did a funny and gave one of the best weapons in the game an extremely low drop rate and 12 perks in each column. xenoclast has the highest range of the energy lightweight shotguns and perks that simply do not exist on other shotguns. good luck.\nrecommended mw: handling or range",
+            "hash": 2891672170,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1047830412,
+                    1300023272,
+                    1332244541
+                ],
+                [
+                    791862061,
+                    3142289711,
+                    679225683
+                ],
+                [
+                    3436462433,
+                    3161816588
+                ],
+                [
+                    3523296417,
+                    2450788523,
+                    1546637391,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "bungie did a funny and gave one of the best weapons in the game an extremely low drop rate and 12 perks in each column. xenoclast has the highest range of the energy lightweight shotguns and perks that simply do not exist on other shotguns. good luck.\nrecommended mw: handling or range",
+            "hash": 2891672170,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    3436462433,
+                    3161816588
+                ],
+                [
+                    3523296417,
+                    1546637391,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "bungie did a funny and gave one of the best weapons in the game an extremely low drop rate and 12 perks in each column. lightweights have the best dps of the pellet shotty archetypes, and xenoclast is of the best one-two punch or straight dps options thanks to its balance of decent reserves and damage.\nrecommended mw: reload or handling",
+            "hash": 2891672170,
+            "name": "pve",
+            "plugs": [
+                [
+                    466087222,
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392,
+                    2420895100
+                ],
+                [
+                    1556840489,
+                    1631667848,
+                    25606670,
+                    2869569095,
+                    3300816228
+                ],
+                [
+                    2679249093,
+                    2360754333,
+                    1546637391,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "bungie did a funny and gave one of the best weapons in the game an extremely low drop rate and 12 perks in each column. lightweights have the best dps of the pellet shotty archetypes, and xenoclast is of the best one-two punch or straight dps options thanks to its balance of decent reserves and damage.\nrecommended mw: reload or handling",
+            "hash": 2891672170,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1556840489,
+                    3300816228
+                ],
+                [
+                    2679249093,
+                    2360754333,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "grave robber + one-two punch = ascension.",
+            "hash": 2891672170,
+            "name": "one-two-punch",
+            "plugs": [
+                [
+                    1047830412,
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1631667848
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "hawkmoon is extremely underrated and imo can be better than ace. it's a stat monster, so it's a godly hand cannon even without any perks, but then it has both random rolls and paracausal shot just to be epic.\nrecommended mw: range",
+            "hash": 3856705927,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    47981717,
+                    2846385770,
+                    588594999,
+                    699525795,
+                    3436462433
+                ],
+                [
+                    3326204863,
+                    862848869,
+                    3917450714
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "hawkmoon is extremely underrated and imo can be better than ace. it's a stat monster, so it's a godly hand cannon even without any perks, but then it has both random rolls and paracausal shot just to be epic.\nrecommended mw: range",
+            "hash": 3856705927,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    2846385770,
+                    699525795
+                ],
+                [
+                    3917450714
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "pretty meh. only really worth taking up your exotic slot for lucky pants, but malfeasance, last word, and crimson are better for that anyways, so idk",
+            "hash": 3856705927,
+            "name": "pve",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    3326204863,
+                    862848869,
+                    3917450714
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "pretty meh. only really worth taking up your exotic slot for lucky pants, but malfeasance, last word, and crimson are better for that anyways, so idk",
+            "hash": 3856705927,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    3917450714
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "cloudstrike best gun",
+            "hash": 2603483885,
+            "name": "god",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1431678320
+                ],
+                [
+                    3117514172
+                ],
+                [
+                    990298390
+                ]
+            ],
+            "tags": [
+                "GodPVP",
+                "GodPVE"
+            ]
+        }
+    ]
+}

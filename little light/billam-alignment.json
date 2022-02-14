@@ -1,0 +1,669 @@
+{
+    "description": "S15 seasonal weapons",
+    "name": "billam-alignment",
+    "data": [
+        {
+            "description": "recommended mw: range",
+            "hash": 1622998472,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    2621346526,
+                    1195158366,
+                    2946784966,
+                    2450788523,
+                    1168162263
+                ],
+                [
+                    124408337,
+                    438098033,
+                    2458213969,
+                    47981717,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: range",
+            "hash": 1622998472,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2946784966,
+                    2621346526
+                ],
+                [
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "pretty much the best pve hand cannon\nrecommended mw: handling or reload",
+            "hash": 1622998472,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    1431678320,
+                    3230963543
+                ],
+                [
+                    3700496672,
+                    1168162263,
+                    2621346526
+                ],
+                [
+                    124408337,
+                    2458213969,
+                    3038247973
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "pretty much the best pve hand cannon\nrecommended mw: handling or reload",
+            "hash": 1622998472,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "best energy legendary bow\nrecommended mw: draw time",
+            "hash": 3472875143,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1196733167,
+                    4067834857,
+                    1784898267,
+                    2801223209,
+                    852209214
+                ],
+                [
+                    16392701,
+                    3429800428,
+                    3311977193,
+                    3827198035
+                ],
+                [
+                    951095735,
+                    201365942,
+                    2621346526
+                ],
+                [
+                    438098033,
+                    4104185692,
+                    3523296417,
+                    1799762209
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "best energy legendary bow\nrecommended mw: draw time",
+            "hash": 3472875143,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    201365942
+                ],
+                [
+                    438098033
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "hands-down best bow in the game, no contest\nrecommended mw: draw time",
+            "hash": 3472875143,
+            "name": "pve",
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    951095735,
+                    201365942,
+                    3700496672,
+                    2621346526
+                ],
+                [
+                    438098033,
+                    1799762209,
+                    4104185692,
+                    2848615171,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "hands-down best bow in the game, no contest\nrecommended mw: draw time",
+            "hash": 3472875143,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    201365942
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "recommended mw: velocity",
+            "hash": 2066434718,
+            "name": "pvp",
+            "plugs": [
+                [
+                    3809316345,
+                    981914802,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    409831596,
+                    1380253176,
+                    2822142346
+                ],
+                [
+                    3436462433,
+                    951095735,
+                    2450788523,
+                    2621346526
+                ],
+                [
+                    3108830275,
+                    3425386926,
+                    2396489472,
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: velocity",
+            "hash": 2066434718,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or velocity",
+            "hash": 2066434718,
+            "name": "pve",
+            "plugs": [
+                [
+                    3809316345,
+                    981914802,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    3301904089,
+                    2985827016,
+                    332133599,
+                    1771897777,
+                    2822142346
+                ],
+                [
+                    3436462433,
+                    2869569095,
+                    2284787283,
+                    951095735
+                ],
+                [
+                    1546637391,
+                    2396489472,
+                    3108830275
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or velocity",
+            "hash": 2066434718,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2985827016,
+                    3301904089
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or velocity",
+            "hash": 2066434718,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "best *obtainable* high impact as of end-of-season S15\nkickstart CAN proc, you just need to start charging IMMEDIATELY after starting your slide. don't feed into misinformation.\nin S16, high impacts are getting a damage bump, so\n\nSEASON 15\nthis is going to sound like ass, but running liquid coils is not always terrible. liquid + high impact with no charge mw will almost always get the 3-bolt kill (~199 dmg) with no activation requirement, giving you a LOT more consistency. if you have a charge time mw or don't have high impact, go for the fastest charge time and pray you can get the 4-bolt.\n\nSEASON 16\nyou can now 3 bolt 6 resilience or lower with accelerated + charge time mw + high impact, 8 res or lower with either (not both) accelerated or charge time\nso that's just better\n\nS15 recommended mw: charge time or range\nS16 recommended mw: charge time",
+            "hash": 3044460004,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3868766766,
+                    689005463,
+                    1687452232,
+                    2969185026
+                ],
+                [
+                    2621346526,
+                    1570042021,
+                    1645158859,
+                    3436462433
+                ],
+                [
+                    1799762209,
+                    438098033,
+                    1754714824,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "best *obtainable* high impact as of end-of-season S15\nkickstart CAN proc, you just need to start charging IMMEDIATELY after starting your slide. don't feed into misinformation.\nin S16, high impacts are getting a damage bump. this roll isn't great rn in S15, but it will probably be really good in S16:\nyou can now 3 bolt 6 resilience or lower with accelerated + charge time mw + high impact, 8 res or lower with either (not both) accelerated or charge time\nso that's just better\n\nrecommended mw: charge time",
+            "hash": 3044460004,
+            "name": "god-pvp-s16",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    689005463
+                ],
+                [
+                    1645158859
+                ],
+                [
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 1337707096,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992,
+                    1467527085
+                ],
+                [
+                    2621346526,
+                    1359896290,
+                    1570042021,
+                    1195158366,
+                    1168162263
+                ],
+                [
+                    3523296417,
+                    2458213969,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 1337707096,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1359896290
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or reload",
+            "hash": 1337707096,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    106909392,
+                    1087426260,
+                    2420895100,
+                    1431678320,
+                    3230963543
+                ],
+                [
+                    1168162263,
+                    1354429876,
+                    2621346526
+                ],
+                [
+                    3592538738,
+                    2848615171,
+                    3523296417,
+                    2458213969,
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or reload",
+            "hash": 1337707096,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    106909392,
+                    1087426260,
+                    2420895100
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 3184681056,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1332244541,
+                    1482024992,
+                    1300023272,
+                    4090651448,
+                    1047830412
+                ],
+                [
+                    3142289711,
+                    791862061,
+                    679225683
+                ],
+                [
+                    2621346526,
+                    706527188,
+                    3161816588,
+                    2117683199
+                ],
+                [
+                    47981717,
+                    3673922083,
+                    438098033,
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 3184681056,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    3142289711,
+                    791862061
+                ],
+                [
+                    706527188
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 3184681056,
+            "name": "pve",
+            "plugs": [
+                [
+                    1332244541,
+                    466087222,
+                    1482024992,
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    679225683
+                ],
+                [
+                    25606670,
+                    3161816588,
+                    2117683199,
+                    1556840489
+                ],
+                [
+                    11612903,
+                    3673922083,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 3184681056,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "best *obtainable* high impact as of end-of-season S15\nthis is going to sound like ass, but running liquid coils is not always terrible. liquid + high impact with no charge mw will almost always get the 3-bolt kill (~199 dmg) with no activation requirement, giving you a LOT more consistency. if you have a charge time mw or don't have high impact, go for the fastest charge time and pray you can get the 4-bolt.\n\nrecommended mw: charge time (range if liquid coils)",
+            "hash": 3044460004,
+            "name": "god-pvp-s15",
+            "plugs": [
+                [
+                    3250034553
+                ],
+                [
+                    1687452232,
+                    2969185026
+                ],
+                [
+                    1645158859
+                ],
+                [
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        }
+    ]
+}

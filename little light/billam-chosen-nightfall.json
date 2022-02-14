@@ -1,0 +1,694 @@
+{
+    "description": "S13 nightfall weapons",
+    "name": "billam-chosen-nightfall",
+    "data": [
+        {
+            "description": "shadow price FEELS really good. on paper, it's not bad - 450s got a buff at some point in the last 2 seasons (I don't remember when), and they CAN kill in the same .8 seconds as 600s... with 7 crits. the cost for missing a shot is WAY higher than with a faster-shooting archetype, and even with the extra range, they're hard to justify. try it out tho, you might love it\nrecommended mw: range",
+            "hash": 2633186522,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3436462433,
+                    2450788523,
+                    3643424744
+                ],
+                [
+                    2726471870,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "shadow price FEELS really good. on paper, it's not bad - 450s got a buff at some point in the last 2 seasons (I don't remember when), and they CAN kill in the same .8 seconds as 600s... with 7 crits. the cost for missing a shot is WAY higher than with a faster-shooting archetype, and even with the extra range, they're hard to justify. try it out tho, you might love it\nrecommended mw: range",
+            "hash": 2633186522,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3436462433,
+                    3643424744
+                ],
+                [
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "shadow price really makes its stride in pve as a nightfall weapon. auto rifle mods in the artifact usually incur a collective groan from the community, but shadow price is a pleasant treat whenever they're necessary. as always, one for all is top tier from a distance, and you've got plenty of perks to make sure that you just. keep. shooting. also, disruption break for barriers.\nrecommended mw: reload or handling",
+            "hash": 2633186522,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    3230963543
+                ],
+                [
+                    4252909580,
+                    1354429876,
+                    3643424744,
+                    2779035018
+                ],
+                [
+                    4049631843,
+                    1683379515,
+                    4082225868,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "shadow price really makes its stride in pve as a nightfall weapon. auto rifle mods in the artifact usually incur a collective groan from the community, but shadow price is a pleasant treat whenever they're necessary. as always, one for all is top tier from a distance, and you've got plenty of perks to make sure that you just. keep. shooting. also, disruption break for barriers.\nrecommended mw: reload or handling",
+            "hash": 2633186522,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774
+                ],
+                [
+                    106909392,
+                    2420895100
+                ],
+                [
+                    4252909580,
+                    1354429876,
+                    3643424744
+                ],
+                [
+                    4049631843,
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+		{
+            "description": "shadow price FEELS really good. on paper, it's not bad - 450s got a buff at some point in the last 2 seasons (I don't remember when), and they CAN kill in the same .8 seconds as 600s... with 7 crits. the cost for missing a shot is WAY higher than with a faster-shooting archetype, and even with the extra range, they're hard to justify. try it out tho, you might love it\nrecommended mw: range",
+            "hash": 2147010335,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3436462433,
+                    2450788523,
+                    3643424744
+                ],
+                [
+                    2726471870,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "shadow price FEELS really good. on paper, it's not bad - 450s got a buff at some point in the last 2 seasons (I don't remember when), and they CAN kill in the same .8 seconds as 600s... with 7 crits. the cost for missing a shot is WAY higher than with a faster-shooting archetype, and even with the extra range, they're hard to justify. try it out tho, you might love it\nrecommended mw: range",
+            "hash": 2147010335,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3436462433,
+                    3643424744
+                ],
+                [
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "shadow price really makes its stride in pve as a nightfall weapon. auto rifle mods in the artifact usually incur a collective groan from the community, but shadow price is a pleasant treat whenever they're necessary. as always, one for all is top tier from a distance, and you've got plenty of perks to make sure that you just. keep. shooting. also, disruption break for barriers.\nrecommended mw: reload or handling",
+            "hash": 2147010335,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    3230963543
+                ],
+                [
+                    4252909580,
+                    1354429876,
+                    3643424744,
+                    2779035018
+                ],
+                [
+                    4049631843,
+                    1683379515,
+                    4082225868,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "shadow price really makes its stride in pve as a nightfall weapon. auto rifle mods in the artifact usually incur a collective groan from the community, but shadow price is a pleasant treat whenever they're necessary. as always, one for all is top tier from a distance, and you've got plenty of perks to make sure that you just. keep. shooting. also, disruption break for barriers.\nrecommended mw: reload or handling",
+            "hash": 2147010335,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774
+                ],
+                [
+                    106909392,
+                    2420895100
+                ],
+                [
+                    4252909580,
+                    1354429876,
+                    3643424744
+                ],
+                [
+                    4049631843,
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "here we go. do I even need to tell you why palindrome is good? it has dummy high stats and the most effective range of any 140. the only thing it lacks is some top-tier left column perks, but what it has is plenty good.\nrecommended mw: range",
+            "hash": 432476743,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    706527188,
+                    3643424744,
+                    2450788523,
+                    1168162263,
+                    4252909580
+                ],
+                [
+                    3425386926,
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "here we go. do I even need to tell you why palindrome is good? it has dummy high stats and the most effective range of any 140. the only thing it lacks is some top-tier left column perks, but what it has is plenty good.\nrecommended mw: range",
+            "hash": 432476743,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    706527188,
+                    3643424744,
+                    2450788523
+                ],
+                [
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "palindrome is pretty good in pve, but there are definitely better hand cannons out there. the left column is absolutely stacked, but all we have for useful right column perks is one for all (which doesn't feel great on slower firing weapons) and rampage (which is hard to keep up against high health enemies). \nrecommended mw: reload",
+            "hash": 432476743,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    4252909580,
+                    1820235745,
+                    3643424744,
+                    1168162263
+                ],
+                [
+                    4049631843,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "palindrome is pretty good in pve, but there are definitely better hand cannons out there. the left column is absolutely stacked, but all we have for useful right column perks is one for all (which doesn't feel great on slower firing weapons) and rampage (which is hard to keep up against high health enemies). \nrecommended mw: reload",
+            "hash": 432476743,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    3643424744
+                ],
+                [
+                    4049631843,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+		{
+            "description": "here we go. do I even need to tell you why palindrome is good? it has dummy high stats and the most effective range of any 140. the only thing it lacks is some top-tier left column perks, but what it has is plenty good.\nrecommended mw: range",
+            "hash": 1481892490,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    706527188,
+                    3643424744,
+                    2450788523,
+                    1168162263,
+                    4252909580
+                ],
+                [
+                    3425386926,
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "here we go. do I even need to tell you why palindrome is good? it has dummy high stats and the most effective range of any 140. the only thing it lacks is some top-tier left column perks, but what it has is plenty good.\nrecommended mw: range",
+            "hash": 1481892490,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    706527188,
+                    3643424744,
+                    2450788523
+                ],
+                [
+                    2846385770
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "palindrome is pretty good in pve, but there are definitely better hand cannons out there. the left column is absolutely stacked, but all we have for useful right column perks is one for all (which doesn't feel great on slower firing weapons) and rampage (which is hard to keep up against high health enemies). \nrecommended mw: reload",
+            "hash": 1481892490,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    4252909580,
+                    1820235745,
+                    3643424744,
+                    1168162263
+                ],
+                [
+                    4049631843,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "palindrome is pretty good in pve, but there are definitely better hand cannons out there. the left column is absolutely stacked, but all we have for useful right column perks is one for all (which doesn't feel great on slower firing weapons) and rampage (which is hard to keep up against high health enemies). \nrecommended mw: reload",
+            "hash": 1481892490,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    3643424744
+                ],
+                [
+                    4049631843,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "360 rpms have the fastest ttk among machine gun archetypes, but they feel like garbage and require all crits. maybe THE SWARM will do it for you, but it probably won't.\nrecommended mw: handling or range",
+            "hash": 47772649,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    202670084
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523,
+                    1359896290,
+                    3436462433,
+                    3108830275
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "360 rpms have the fastest ttk among machine gun archetypes, but they feel like garbage and require all crits. maybe THE SWARM will do it for you, but it probably won't.\nrecommended mw: handling or range",
+            "hash": 47772649,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553,
+                    202670084
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1359896290,
+                    3108830275
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "THE SWARM has perks, but other machine guns also have perks, and this archetype is garbage. unrelenting in the left column is interesting and probably the only reason I would go for this gun, if not for the fact that it kills things slower than a primary.\nrecommended mw: reload",
+            "hash": 47772649,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    3230963543
+                ],
+                [
+                    3108830275,
+                    1168162263,
+                    4252909580
+                ],
+                [
+                    4049631843,
+                    2848615171,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "THE SWARM has perks, but other machine guns also have perks, and this archetype is garbage. unrelenting in the left column is interesting and probably the only reason I would go for this gun, if not for the fact that it kills things slower than a primary.\nrecommended mw: reload",
+            "hash": 47772649,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1168162263,
+                    4252909580,
+                    3108830275
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+		{
+            "description": "360 rpms have the fastest ttk among machine gun archetypes, but they feel like garbage and require all crits. maybe THE SWARM will do it for you, but it probably won't.\nrecommended mw: handling or range",
+            "hash": 3836861464,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    202670084
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523,
+                    1359896290,
+                    3436462433,
+                    3108830275
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "360 rpms have the fastest ttk among machine gun archetypes, but they feel like garbage and require all crits. maybe THE SWARM will do it for you, but it probably won't.\nrecommended mw: handling or range",
+            "hash": 3836861464,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553,
+                    202670084
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1359896290,
+                    3108830275
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "THE SWARM has perks, but other machine guns also have perks, and this archetype is garbage. unrelenting in the left column is interesting and probably the only reason I would go for this gun, if not for the fact that it kills things slower than a primary.\nrecommended mw: reload",
+            "hash": 3836861464,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    3230963543
+                ],
+                [
+                    3108830275,
+                    1168162263,
+                    4252909580
+                ],
+                [
+                    4049631843,
+                    2848615171,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "THE SWARM has perks, but other machine guns also have perks, and this archetype is garbage. unrelenting in the left column is interesting and probably the only reason I would go for this gun, if not for the fact that it kills things slower than a primary.\nrecommended mw: reload",
+            "hash": 3836861464,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1168162263,
+                    4252909580,
+                    3108830275
+                ],
+                [
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}
