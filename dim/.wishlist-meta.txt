@@ -1,0 +1,3 @@
+title: billam's recommended rolls
+description: recommendations for rolls on all non-sunset weapons. future updates will include descriptions, trash rolls, and sunset weapons
+
