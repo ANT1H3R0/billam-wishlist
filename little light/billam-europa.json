@@ -1,1 +1,783 @@
-{"description":"Europa weapons","name":"billam-europa","data":[{"description":"bonechiller is VERY slept on. it's often dismissed for its low handling and lack of quickdraw, but it boasts solid range and a ridiculous 61 aim assist, which is close to double the AA of all other energy slugs. in addition, you can stack firmly planted and opening shot for an even more ridiculous boost to accuracy. honestly, quick charge + quick access sling makes pretty much any shotgun's ready speed fast - you're not giving up too much there, either.\nrecommended mw: handling or range","hash":4037745684,"name":"pvp","plugs":[[839105230,4090651448,1840239774,3250034553],[791862061,3142289711,679225683],[280464955,3436462433],[47981717,4071163871,3523296417]],"tags":["PVP"]},{"description":"bonechiller is VERY slept on. it's often dismissed for its low handling and lack of quickdraw, but it boasts solid range and a ridiculous 61 aim assist, which is close to double the AA of all other energy slugs. in addition, you can stack firmly planted and opening shot for an even more ridiculous boost to accuracy. honestly, quick charge + quick access sling makes pretty much any shotgun's ready speed fast - you're not giving up too much there, either.\nrecommended mw: handling or range","hash":4037745684,"name":"god-pvp","plugs":[[1840239774,3250034553],[791862061,3142289711],[280464955],[47981717,4071163871]],"tags":["GodPVP"]},{"description":"bonechiller leaves much to be desired in pve. it has great left column perks, but its only damage perk is one for all, which isn't very practical on a shotgun. you're better off with a sojourner's tale or first in last out.\nrecommended mw: reload (unless autoloading) or handling","hash":4037745684,"name":"pve","plugs":[[839105230,4090651448,1840239774,3250034553],[2420895100,791862061,1087426260,106909392],[25606670,1556840489,3300816228,3400784728],[2848615171,3523296417]],"tags":["PVE"]},{"description":"bonechiller leaves much to be desired in pve. it has great left column perks, but its only damage perk is one for all, which isn't very practical on a shotgun. you're better off with a sojourner's tale or first in last out.\nrecommended mw: reload (unless autoloading) or handling","hash":4037745684,"name":"god-pve","plugs":[[1840239774,3250034553],[791862061],[1556840489,3300816228],[2848615171,3523296417]],"tags":["GodPVE"]}]}
+{
+    "description": "Europa weapons",
+    "name": "billam-europa",
+    "data": [
+        {
+            "description": "bonechiller is VERY slept on. it's often dismissed for its low handling and lack of quickdraw, but it boasts solid range and a ridiculous 61 aim assist, which is close to double the AA of all other energy slugs. in addition, you can stack firmly planted and opening shot for an even more ridiculous boost to accuracy. honestly, quick charge + quick access sling makes pretty much any shotgun's ready speed fast - you're not giving up too much there, either.\nrecommended mw: handling or range",
+            "hash": 4037745684,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    791862061,
+                    3142289711,
+                    679225683
+                ],
+                [
+                    280464955,
+                    3436462433
+                ],
+                [
+                    47981717,
+                    4071163871,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "bonechiller is VERY slept on. it's often dismissed for its low handling and lack of quickdraw, but it boasts solid range and a ridiculous 61 aim assist, which is close to double the AA of all other energy slugs. in addition, you can stack firmly planted and opening shot for an even more ridiculous boost to accuracy. honestly, quick charge + quick access sling makes pretty much any shotgun's ready speed fast - you're not giving up too much there, either.\nrecommended mw: handling or range",
+            "hash": 4037745684,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    280464955
+                ],
+                [
+                    47981717,
+                    4071163871
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "bonechiller leaves much to be desired in pve. it has great left column perks, but its only damage perk is one for all, which isn't very practical on a shotgun. you're better off with a sojourner's tale or first in last out.\nrecommended mw: reload (unless autoloading) or handling",
+            "hash": 4037745684,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    791862061,
+                    1087426260,
+                    106909392
+                ],
+                [
+                    25606670,
+                    1556840489,
+                    3300816228,
+                    3400784728
+                ],
+                [
+                    2848615171,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "bonechiller leaves much to be desired in pve. it has great left column perks, but its only damage perk is one for all, which isn't very practical on a shotgun. you're better off with a sojourner's tale or first in last out.\nrecommended mw: reload (unless autoloading) or handling",
+            "hash": 4037745684,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1556840489,
+                    3300816228
+                ],
+                [
+                    2848615171,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "swash x5 allows for a one-headshot kill\nrecommended mw: draw time",
+            "hash": 1621657423,
+            "name": "pvp",
+            "plugs": [
+                [
+                    588594999,
+                    247725512,
+                    3436462433,
+                    2450788523
+                ],
+                [
+                    3365897133,
+                    4082225868,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "swash x5 allows for a one-headshot kill\nrecommended mw: draw time",
+            "hash": 1621657423,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    3429800428,
+                    16392701
+                ],
+                [
+                    588594999,
+                    3436462433
+                ],
+                [
+                    3365897133,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "budget accrued\nrecommended mw: draw time",
+            "hash": 1621657423,
+            "name": "pve",
+            "plugs": [
+                [
+                    2801223209,
+                    4067834857,
+                    852209214
+                ],
+                [
+                    247725512,
+                    3436462433
+                ],
+                [
+                    3365897133,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "budget accrued\nrecommended mw: draw time",
+            "hash": 1621657423,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    2801223209
+                ],
+                [
+                    16392701
+                ],
+                [
+                    247725512
+                ],
+                [
+                    3365897133
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "if chroma rush is the king of lethality, arctic haze is the king of consistency for 720s\narrowhead / counterbalance / stasis ele. capacitor recommended\nrecommended mw: range",
+            "hash": 20935540,
+            "name": "pvp",
+            "plugs": [
+                [
+                    3250034553,
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    1482024992,
+                    1840239774
+                ],
+                [
+                    2450788523,
+                    1168162263,
+                    3513791699
+                ],
+                [
+                    3511092054,
+                    2726471870,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "if chroma rush is the king of lethality, arctic haze is the king of consistency for 720s\narrowhead / counterbalance / stasis ele. capacitor recommended\nrecommended mw: range",
+            "hash": 20935540,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    2450788523
+                ],
+                [
+                    3511092054,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling",
+            "hash": 20935540,
+            "name": "pve",
+            "plugs": [
+                [
+                    3250034553,
+                    839105230,
+                    4090651448,
+                    1840239774
+                ],
+                [
+                    1431678320,
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    3230963543
+                ],
+                [
+                    3400784728,
+                    1168162263,
+                    1820235745
+                ],
+                [
+                    1546637391,
+                    2848615171,
+                    3108830275
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: handling",
+            "hash": 20935540,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    1546637391,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "arrowhead / counterbalance recommended\nrecommended mw: handling or range",
+            "hash": 1766088024,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1482024992,
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    3250034553,
+                    202670084
+                ],
+                [
+                    679225683,
+                    1968497646,
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    2450788523,
+                    706527188
+                ],
+                [
+                    3523296417,
+                    1359896290,
+                    1890422124,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "arrowhead / counterbalance recommended\nrecommended mw: handling or range",
+            "hash": 1766088024,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    2450788523
+                ],
+                [
+                    1890422124,
+                    1359896290
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 1766088024,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    1482024992,
+                    3250034553
+                ],
+                [
+                    679225683,
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    3523296417,
+                    2848615171,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 1766088024,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "arrowhead / counterbalance / stasis ele. capacitor recommended\nrecommended mw: range",
+            "hash": 2870169846,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    280464955,
+                    972757866,
+                    3436462433,
+                    1168162263
+                ],
+                [
+                    3523296417,
+                    3511092054,
+                    3592538738,
+                    706527188
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "arrowhead / counterbalance / stasis ele. capacitor recommended\nrecommended mw: range",
+            "hash": 2870169846,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    280464955
+                ],
+                [
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 2870169846,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    3250034553,
+                    4090651448,
+                    1482024992
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    1168162263,
+                    972757866,
+                    2039302152,
+                    3436462433
+                ],
+                [
+                    3523296417,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 2870169846,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    1168162263
+                ],
+                [
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "just use ascendancy\nrecommended mw: velocity",
+            "hash": 42351395,
+            "name": "pvp",
+            "plugs": [
+                [
+                    981914802,
+                    3809316345,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    1996142143,
+                    2822142346,
+                    3492396210
+                ],
+                [
+                    2450788523,
+                    3436462433,
+                    706527188
+                ],
+                [
+                    3523296417,
+                    2396489472,
+                    3108830275,
+                    1275731761,
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "just use ascendancy\nrecommended mw: velocity",
+            "hash": 42351395,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "just use ascendancy\nrecommended mw: reload",
+            "hash": 42351395,
+            "name": "pve",
+            "plugs": [
+                [
+                    981914802,
+                    3809316345,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    3796465595,
+                    2985827016,
+                    2822142346
+                ],
+                [
+                    2010801679,
+                    3436462433
+                ],
+                [
+                    3523296417,
+                    2396489472,
+                    3108830275
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "just use ascendancy\nrecommended mw: reload",
+            "hash": 42351395,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3796465595
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    3523296417,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "recommended mw: range or handling",
+            "hash": 1197486957,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    2039302152,
+                    4071163871,
+                    3436462433,
+                    2450788523
+                ],
+                [
+                    957782887,
+                    3592538738,
+                    3523296417,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: range or handling",
+            "hash": 1197486957,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    2213355989,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "excellent sidearm, one of the best pve primaries out there. unfortunately, it's been completely outclassed by peacebond, but this is really easy to grind, and peacebond is definitely not.\nrecommended mw: reload",
+            "hash": 1197486957,
+            "name": "pve",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    1431678320,
+                    3230963543
+                ],
+                [
+                    2010801679,
+                    4071163871,
+                    3436462433
+                ],
+                [
+                    3592538738,
+                    3523296417,
+                    2213355989
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "excellent sidearm, one of the best pve primaries out there. unfortunately, it's been completely outclassed by peacebond, but this is really easy to grind, and peacebond is definitely not.\nrecommended mw: reload",
+            "hash": 1197486957,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    106909392,
+                    3230963543
+                ],
+                [
+                    2010801679
+                ],
+                [
+                    3592538738,
+                    3523296417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}

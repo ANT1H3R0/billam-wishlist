@@ -1,0 +1,681 @@
+{
+    "description": "Seventh Seraph weapons",
+    "name": "billam-seraph",
+    "data": [
+        {
+            "description": "recommended mw: range or handling",
+            "hash": 1561006927,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    3161816588,
+                    4071163871
+                ],
+                [
+                    3511092054,
+                    2846385770,
+                    4082225868,
+                    3425386926,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: range or handling",
+            "hash": 1561006927,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3161816588
+                ],
+                [
+                    2846385770,
+                    588594999,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload",
+            "hash": 1561006927,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    3230963543,
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    679225683
+                ],
+                [
+                    1354429876,
+                    4071163871,
+                    3300816228
+                ],
+                [
+                    1546637391,
+                    4082225868,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload",
+            "hash": 1561006927,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    3230963543,
+                    1087426260
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    1546637391,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "recommended mw: range",
+            "hash": 3037520408,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    280464955,
+                    4071163871,
+                    972757866
+                ],
+                [
+                    1954620775,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: range",
+            "hash": 3037520408,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    280464955,
+                    4071163871
+                ],
+                [
+                    1954620775
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "really good - it has fallen from glory after the warmind nerf, but still a very solid option for nightfalls and other endgame pve\nrecommended mw: reload",
+            "hash": 3037520408,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    4134353779,
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    1431678320,
+                    3230963543
+                ],
+                [
+                    2010801679,
+                    1354429876,
+                    4071163871
+                ],
+                [
+                    2779035018,
+                    1546637391,
+                    1774574192,
+                    1954620775,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "really good - it has fallen from glory after the warmind nerf, but still a very solid option for nightfalls and other endgame pve\nrecommended mw: reload",
+            "hash": 3037520408,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    4134353779,
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    1954620775
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "arrowhead / counterbalance / stasis ele. capacitor recommended\nrecommended mw: handling or range",
+            "hash": 2582755344,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    47981717,
+                    3511092054,
+                    3513791699
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "arrowhead / counterbalance / stasis ele. capacitor recommended\nrecommended mw: handling or range",
+            "hash": 2582755344,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    3511092054,
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "speedrunner heavy for double special endgame pve\nrecommended mw: reload",
+            "hash": 2582755344,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    1631667848,
+                    2284787283,
+                    3300816228,
+                    2869569095
+                ],
+                [
+                    1546637391,
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "speedrunner heavy for double special endgame pve\nrecommended mw: reload",
+            "hash": 2582755344,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230,
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    2869569095
+                ],
+                [
+                    1771339417
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "top tier pvp shotgun\nrecommended mw: range or handling",
+            "hash": 1821724780,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1300023272,
+                    1482024992,
+                    4090651448,
+                    1047830412
+                ],
+                [
+                    791862061,
+                    3142289711,
+                    679225683
+                ],
+                [
+                    706527188,
+                    3161816588
+                ],
+                [
+                    957782887,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "top tier pvp shotgun\nrecommended mw: range or handling",
+            "hash": 1821724780,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    706527188,
+                    3161816588
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "best pellet shotty dps\nrecommended mw: handling or reload",
+            "hash": 1821724780,
+            "name": "pve",
+            "plugs": [
+                [
+                    466087222,
+                    1482024992,
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    791862061,
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    679225683
+                ],
+                [
+                    1556840489,
+                    3300816228,
+                    3161816588
+                ],
+                [
+                    1546637391,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "best pellet shotty dps\nrecommended mw: handling or reload",
+            "hash": 1821724780,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061
+                ],
+                [
+                    1556840489,
+                    3300816228
+                ],
+                [
+                    1546637391,
+                    2360754333
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "recommended mw: range",
+            "hash": 3937866388,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    4071163871,
+                    3523296417,
+                    1866048759
+                ],
+                [
+                    3511092054,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: range",
+            "hash": 3937866388,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    3511092054,
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "seraph sidearm was always the best warmind cell weapon, do not @ me\nrecommended mw: handling or reload",
+            "hash": 3937866388,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    4134353779,
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    1431678320,
+                    3230963543
+                ],
+                [
+                    4071163871,
+                    3523296417
+                ],
+                [
+                    2848615171,
+                    3708227201,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "seraph sidearm was always the best warmind cell weapon, do not @ me\nrecommended mw: handling or reload",
+            "hash": 3937866388,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100
+                ],
+                [
+                    3523296417
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "actually not bad if you don't have a shayura's, ikelos, borrowed time, or every waking moment.\nrecommended mw: range",
+            "hash": 766323545,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    280464955,
+                    972757866
+                ],
+                [
+                    3511092054,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "actually not bad if you don't have a shayura's, ikelos, borrowed time, or every waking moment.\nrecommended mw: range",
+            "hash": 766323545,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    280464955
+                ],
+                [
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload",
+            "hash": 766323545,
+            "name": "pve",
+            "plugs": [
+                [
+                    4090651448,
+                    839105230,
+                    1840239774,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1087426260,
+                    4134353779,
+                    106909392,
+                    2420895100,
+                    1431678320,
+                    3230963543
+                ],
+                [
+                    2010801679,
+                    1354429876,
+                    972757866
+                ],
+                [
+                    2848615171,
+                    2779035018,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload",
+            "hash": 766323545,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774
+                ],
+                [
+                    1087426260,
+                    4134353779,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}
