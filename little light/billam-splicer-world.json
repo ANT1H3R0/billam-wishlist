@@ -1,0 +1,1263 @@
+{
+    "description": "S14 World Drops",
+    "name": "billam-splicer-world",
+    "data": [
+        {
+            "description": "arrowhead / counterbalance recommended.\nlots of range bc high zoom, but mediocre perks, and it feels like garbage. not shadow price/10.\nrecommended mw: range or handling",
+            "hash": 2492081469,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    4071163871,
+                    3436462433,
+                    2450788523
+                ],
+                [
+                    3592538738,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "arrowhead / counterbalance recommended.\nlots of range bc high zoom, but mediocre perks, and it feels like garbage. not shadow price/10.\nrecommended mw: range or handling",
+            "hash": 2492081469,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "many of the same perks as shadow price but just feels worse.\nrecommended mw: handling or reload",
+            "hash": 2492081469,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    1968497646,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    2869569095,
+                    4071163871,
+                    3436462433
+                ],
+                [
+                    2213355989,
+                    3592538738,
+                    4049631843,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "many of the same perks as shadow price but just feels worse.\nrecommended mw: handling or reload",
+            "hash": 2492081469,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    4049631843,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "truthteller with worse stats and more perks that you don't want. unfortunately, truthteller is now infinitely more challenging to obtain, so this is what we've got.\nrecommended mw: handling or velocity",
+            "hash": 4255586669,
+            "name": "pvp",
+            "plugs": [
+                [
+                    3809316345,
+                    981914802,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    409831596,
+                    3301904089,
+                    2822142346,
+                    3492396210
+                ],
+                [
+                    706527188,
+                    3436462433,
+                    3300816228,
+                    2010801679
+                ],
+                [
+                    1683379515,
+                    3523296417,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "truthteller with worse stats and more perks that you don't want. unfortunately, truthteller is now infinitely more challenging to obtain, so this is what we've got.\nrecommended mw: handling or velocity",
+            "hash": 4255586669,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    409831596,
+                    2822142346
+                ],
+                [
+                    3300816228
+                ],
+                [
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "truthteller but with more options. if all you want is the blinding + autoloading + demo, go for a truthteller, but empty vessel can get lead from gold, ambitious assassin, threat detector, and a bunch of other goodies.\nrecommended mw: reload or handling",
+            "hash": 4255586669,
+            "name": "pve",
+            "plugs": [
+                [
+                    3809316345,
+                    981914802,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    1716000303,
+                    3032599245,
+                    3301904089,
+                    2822142346
+                ],
+                [
+                    1556840489,
+                    3436462433,
+                    2779035018,
+                    3300816228,
+                    4071163871,
+                    2010801679,
+                    2869569095
+                ],
+                [
+                    2458213969,
+                    3108830275,
+                    3523296417,
+                    1546637391,
+                    4049631843,
+                    2726471870
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "truthteller but with more options. if all you want is the blinding + autoloading + demo, go for a truthteller, but empty vessel can get lead from gold, ambitious assassin, threat detector, and a bunch of other goodies.\nrecommended mw: reload or handling",
+            "hash": 4255586669,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3032599245
+                ],
+                [
+                    1556840489,
+                    2010801679,
+                    3300816228
+                ],
+                [
+                    3523296417,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "impulse amplifier makes this thing's projectiles go in almost a straight line. heavy mountaintop baybee\nrecommended mw: velocity",
+            "hash": 3165547384,
+            "name": "pvp",
+            "plugs": [
+                [
+                    3809316345,
+                    981914802,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    3492396210,
+                    409831596,
+                    1380253176,
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2396489472,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "impulse amplifier makes this thing's projectiles go in almost a straight line. heavy mountaintop baybee\nrecommended mw: velocity",
+            "hash": 3165547384,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or velocity",
+            "hash": 3165547384,
+            "name": "pve",
+            "plugs": [
+                [
+                    3809316345,
+                    981914802,
+                    1441682018,
+                    3525010810,
+                    3798852852
+                ],
+                [
+                    3301904089,
+                    2985827016,
+                    2822142346
+                ],
+                [
+                    2284787283,
+                    951095735,
+                    3300816228
+                ],
+                [
+                    2396489472,
+                    3592538738,
+                    3108830275
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or velocity",
+            "hash": 3165547384,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3301904089
+                ],
+                [
+                    951095735
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "pretty much as good as 180s get. either mkclip (3c0b) or kill clip (2c1b) will get you a 3 tap, or you can max out consistency. v epic.\nrecommended mw: range",
+            "hash": 310708513,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1467527085,
+                    4090651448,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1885400500,
+                    1968497646,
+                    1561002382,
+                    679225683
+                ],
+                [
+                    706527188,
+                    2946784966,
+                    1570042021,
+                    280464955,
+                    3436462433,
+                    1168162263,
+                    2450788523,
+                    3161816588,
+                    247725512
+                ],
+                [
+                    957782887,
+                    588594999,
+                    699525795,
+                    3592538738,
+                    2458213969,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "pretty much as good as 180s get. either mkclip (3c0b) or kill clip (2c1b) will get you a 3 tap, or you can max out consistency. v epic.\nrecommended mw: range",
+            "hash": 310708513,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    2946784966,
+                    1570042021,
+                    3436462433
+                ],
+                [
+                    699525795,
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "pretty good, but stasis hand cannons/fatebringer are better.\nrecommended mw: reload or handling",
+            "hash": 310708513,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992,
+                    1392496348
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    1968497646,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    3436462433,
+                    1168162263,
+                    2779035018,
+                    2010801679,
+                    1820235745,
+                    247725512
+                ],
+                [
+                    11612903,
+                    4104185692,
+                    1774574192,
+                    3592538738,
+                    2458213969,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "pretty good, but stasis hand cannons/fatebringer are better.\nrecommended mw: reload or handling",
+            "hash": 310708513,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    1820235745,
+                    247725512
+                ],
+                [
+                    4104185692
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 3556999246,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1561002382,
+                    1968497646,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    3436462433,
+                    1168162263
+                ],
+                [
+                    3523296417,
+                    699525795,
+                    3511092054,
+                    3592538738,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 3556999246,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    699525795,
+                    3511092054,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "unfortunately there's really nothing great in the right column. just use cornflakes, even though it's a worse archetype\nrecommended mw: reload or handling",
+            "hash": 3556999246,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1392496348,
+                    1482024992
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    1968497646,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    2869569095,
+                    1354429876,
+                    3436462433,
+                    1168162263,
+                    1820235745
+                ],
+                [
+                    3523296417,
+                    3592538738,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "unfortunately there's really nothing great in the right column. just use cornflakes, even though it's a worse archetype\nrecommended mw: reload or handling",
+            "hash": 3556999246,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    1087426260
+                ],
+                [
+                    1354429876
+                ],
+                [
+                    3523296417,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "in the top 3 best energy smgs for sure. ~22m of range, very forgiving, great perks, it's epic. if only it didn't come from gambit.\nrecommended mw: range",
+            "hash": 875848769,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    1570042021,
+                    2946784966,
+                    2846385770,
+                    2450788523,
+                    280464955,
+                    3643424744,
+                    3436462433,
+                    4071163871,
+                    1359896290
+                ],
+                [
+                    1890422124,
+                    11612903,
+                    4104185692,
+                    3592538738,
+                    957782887,
+                    3523296417,
+                    4082225868,
+                    3425386926
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "in the top 3 best energy smgs for sure. ~22m of range, very forgiving, great perks, it's epic. if only it didn't come from gambit.\nrecommended mw: range",
+            "hash": 875848769,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    2846385770
+                ],
+                [
+                    1890422124
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 875848769,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992,
+                    1392496348
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    1968497646,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    1631667848,
+                    1354429876,
+                    3643424744,
+                    3436462433,
+                    4071163871,
+                    2779035018
+                ],
+                [
+                    11612903,
+                    2848615171,
+                    4104185692,
+                    3592538738,
+                    3523296417,
+                    4082225868,
+                    4049631843,
+                    3425386926,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 875848769,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    3643424744,
+                    4071163871,
+                    2779035018
+                ],
+                [
+                    4104185692,
+                    3523296417,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "ok, so. right now, this thing is abominable in pvp due to its low zoom and lack of perks to make up for it. however, I would hold on to one: bungo has said that there will be changes later in y5 to reduce the effect of zoom on effective range. don't mess with phase mag, it turns your gun into a worse archetype without affecting range.\nrecommended mw: range",
+            "hash": 2272470786,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1561002382,
+                    1968497646,
+                    1885400500,
+                    679225683
+                ],
+                [
+                    2450788523,
+                    3436462433
+                ],
+                [
+                    2458213969,
+                    3511092054,
+                    706527188,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "ok, so. right now, this thing is abominable in pvp due to its low zoom and lack of perks to make up for it. however, I would hold on to one: bungo has said that there will be changes later in y5 to reduce the effect of zoom on effective range. don't mess with phase mag, it turns your gun into a worse archetype without affecting range.\nrecommended mw: range",
+            "hash": 2272470786,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    3436462433,
+                    2450788523
+                ],
+                [
+                    2458213969,
+                    706527188
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "stochastic variable doesn't need any fancy new perks or warmind cells to be good: it just does beefy damage. wouldn't recommend dragonfly unless you run phase mag, but I wouldn't recommend phase mag, so that's your call.\nrecommended mw: reload",
+            "hash": 2272470786,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992,
+                    1392496348
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    2010801679,
+                    2779035018
+                ],
+                [
+                    2458213969,
+                    3592538738
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "stochastic variable doesn't need any fancy new perks or warmind cells to be good: it just does beefy damage. wouldn't recommend dragonfly unless you run phase mag, but I wouldn't recommend phase mag, so that's your call.\nrecommended mw: reload",
+            "hash": 2272470786,
+            "name": "pve",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992,
+                    1392496348
+                ],
+                [
+                    830282363
+                ],
+                [
+                    2010801679,
+                    2779035018
+                ],
+                [
+                    2458213969,
+                    3592538738,
+                    2848615171
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "stochastic variable doesn't need any fancy new perks or warmind cells to be good: it just does beefy damage. wouldn't recommend dragonfly unless you run phase mag, but I wouldn't recommend phase mag, so that's your call.\nrecommended mw: reload",
+            "hash": 2272470786,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100,
+                    1087426260,
+                    3230963543
+                ],
+                [
+                    2779035018
+                ],
+                [
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "high reserves and grave robber makes deicide (dee-ih-side) incredibly attractive as a one-two punch option. it's also aight for major/miniboss damage after the pellet shotty buff.\nrecommended mw: reload or handling.",
+            "hash": 217140611,
+            "name": "pve",
+            "plugs": [
+                [
+                    1047830412,
+                    466087222,
+                    1482024992,
+                    1300023272,
+                    4090651448
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    679225683
+                ],
+                [
+                    1556840489,
+                    25606670,
+                    3161816588,
+                    1631667848,
+                    3436462433
+                ],
+                [
+                    2679249093,
+                    3523296417,
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "high reserves and grave robber makes deicide (dee-ih-side) incredibly attractive as a one-two punch option. it's also aight for major/miniboss damage after the pellet shotty buff.\nrecommended mw: reload or handling.",
+            "hash": 217140611,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1047830412,
+                    1300023272
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1556840489,
+                    1631667848
+                ],
+                [
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "high reserves and grave robber makes deicide (dee-ih-side) incredibly attractive as a one-two punch option. it's also aight for major/miniboss damage after the pellet shotty buff.\nrecommended mw: reload or handling.",
+            "hash": 217140611,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    106909392
+                ],
+                [
+                    1556840489
+                ],
+                [
+                    1546637391
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "if you have the xur last dance or really any other adaptive burst sidearm, just use that.\nrecommended mw: handling or range",
+            "hash": 2414141462,
+            "name": "pvp",
+            "plugs": [
+                [
+                    445755711,
+                    445755707,
+                    445755706,
+                    445755705,
+                    445755704
+                ],
+                [
+                    3436462433,
+                    2450788523
+                ],
+                [
+                    1015611457,
+                    4082225868,
+                    1683379515,
+                    3511092054
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "if you have the xur last dance or really any other adaptive burst sidearm, just use that.\nrecommended mw: handling or range",
+            "hash": 2414141462,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    445755707,
+                    445755705,
+                    445755704
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    3436462433
+                ],
+                [
+                    1015611457
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 2414141462,
+            "name": "pve",
+            "plugs": [
+                [
+                    445755707,
+                    445755706,
+                    445755705,
+                    445755704
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    2420895100,
+                    1431678320,
+                    3230963543
+                ],
+                [
+                    1631667848,
+                    3436462433,
+                    2010801679
+                ],
+                [
+                    1015611457,
+                    4049631843,
+                    4082225868,
+                    3511092054,
+                    1683379515
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 2414141462,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    445755707
+                ],
+                [
+                    1087426260,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    1631667848,
+                    2010801679
+                ],
+                [
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "iirc it's slightly better than adaptives for burst but it takes forever to get whirlwind blade up and other damage buffs are inconsistent or simply worse",
+            "hash": 2782325302,
+            "name": "pve",
+            "plugs": [
+                [
+                    1749209109
+                ],
+                [
+                    1546637391,
+                    3913600130,
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "iirc it's slightly better than adaptives for burst but it takes forever to get whirlwind blade up and other damage buffs are inconsistent or simply worse",
+            "hash": 2782325302,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    2349202967
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    1546637391,
+                    3913600130
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "they put whirlwind in the curated to troll us lol. with surrounded, it's pretty good for solar burn strikes / lost sectors, but in general stick to your strong swords.",
+            "hash": 2782325301,
+            "name": "pve",
+            "plugs": [
+                [
+                    2590710093,
+                    1749209109,
+                    2726471870
+                ],
+                [
+                    3708227201,
+                    354401740
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "they put whirlwind in the curated to troll us lol. with surrounded, it's pretty good for solar burn strikes / lost sectors, but in general stick to your strong swords.",
+            "hash": 2782325301,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    2363751990
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    3708227201
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "everything you would want on a yaas but also gives you the lightweight bonus. pretty nice.",
+            "hash": 2782325300,
+            "name": "pvp",
+            "plugs": [
+                [
+                    2590710093,
+                    1749209109,
+                    2726471870
+                ],
+                [
+                    354401740
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "everything you would want on a yaas but also gives you the lightweight bonus. pretty nice.",
+            "hash": 2782325300,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    2590710093
+                ],
+                [
+                    354401740
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "it's ok for add clear, but look up \"The Quickfang Aerial Combo\" on youtube. you'll want en garde for that.",
+            "hash": 2782325300,
+            "name": "pve",
+            "plugs": [
+                [
+                    2590710093,
+                    1749209109,
+                    2726471870
+                ],
+                [
+                    354401740,
+                    1685431615,
+                    4049631843
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "it's ok for add clear, but look up \"The Quickfang Aerial Combo\" on youtube. you'll want en garde for that.",
+            "hash": 2782325300,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    1685431615
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}

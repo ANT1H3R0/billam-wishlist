@@ -1,0 +1,388 @@
+{
+    "description": "Grasp of Avarice weapons",
+    "name": "billam-avarice",
+    "data": [
+        {
+            "description": "top tier hand cannon\nrecommended mw: range",
+            "hash": 235827225,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1926090092,
+                    1926090094,
+                    1926090095,
+                    1926090093
+                ],
+                [
+                    1885400500,
+                    1968497646,
+                    1561002382,
+                    679225683
+                ],
+                [
+                    2846385770,
+                    247725512,
+                    1570042021,
+                    1428297954,
+                    1168162263
+                ],
+                [
+                    588594999,
+                    1015611457,
+                    438098033,
+                    957782887,
+                    3523296417,
+                    124408337
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "top tier hand cannon\nrecommended mw: range",
+            "hash": 235827225,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1926090094
+                ],
+                [
+                    1885400500,
+                    1561002382
+                ],
+                [
+                    2846385770,
+                    1428297954
+                ],
+                [
+                    588594999
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 235827225,
+            "name": "pve",
+            "plugs": [
+                [
+                    1926090092,
+                    1926090094,
+                    1926090095,
+                    1926090093
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    1968497646,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    3108830275,
+                    247725512,
+                    1168162263,
+                    1428297954
+                ],
+                [
+                    124408337,
+                    3523296417,
+                    1015611457,
+                    438098033
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 235827225,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1926090094
+                ],
+                [
+                    1087426260,
+                    1968497646,
+                    3230963543
+                ],
+                [
+                    3108830275
+                ],
+                [
+                    124408337
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "top tier sniper\nrecommended mw: handling or range",
+            "hash": 4164201232,
+            "name": "pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    839105230,
+                    4090651448,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    2866798147,
+                    1570042021,
+                    280464955,
+                    706527188,
+                    1428297954
+                ],
+                [
+                    957782887,
+                    588594999
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "top tier sniper\nrecommended mw: handling or range",
+            "hash": 4164201232,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    280464955,
+                    706527188
+                ],
+                [
+                    957782887
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 2563012876,
+            "name": "pvp",
+            "plugs": [
+                [
+                    4090651448,
+                    1482024992,
+                    1300023272,
+                    1047830412
+                ],
+                [
+                    791862061,
+                    3142289711,
+                    679225683
+                ],
+                [
+                    1428297954,
+                    972757866,
+                    2117683199,
+                    4071163871,
+                    2946784966
+                ],
+                [
+                    438098033,
+                    47981717,
+                    2450788523
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "recommended mw: handling or range",
+            "hash": 2563012876,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1047830412
+                ],
+                [
+                    791862061,
+                    3142289711
+                ],
+                [
+                    4071163871
+                ],
+                [
+                    47981717
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 2563012876,
+            "name": "pve",
+            "plugs": [
+                [
+                    4090651448,
+                    466087222,
+                    1482024992,
+                    1300023272,
+                    1047830412
+                ],
+                [
+                    106909392,
+                    791862061,
+                    1087426260,
+                    2420895100,
+                    679225683
+                ],
+                [
+                    972757866,
+                    1428297954,
+                    2117683199,
+                    4071163871,
+                    1556840489
+                ],
+                [
+                    438098033,
+                    2610012052,
+                    2679249093,
+                    4082225868
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "recommended mw: reload or handling",
+            "hash": 2563012876,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1300023272
+                ],
+                [
+                    791862061,
+                    106909392
+                ],
+                [
+                    4071163871,
+                    1556840489,
+                    972757866
+                ],
+                [
+                    2610012052,
+                    2679249093
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "yaas but it's a vortex and has some unique perks",
+            "hash": 2139640995,
+            "name": "pvp",
+            "plugs": [
+                [
+                    3523296417,
+                    1749209109,
+                    3108830275,
+                    2590710093
+                ],
+                [
+                    354401740,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "yaas but it's a vortex and has some unique perks",
+            "hash": 2139640995,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    3523296417,
+                    3108830275,
+                    2590710093
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "chain reaction kills proc unrelenting / demo\ndien't or get grenade\ni'd put it slightly above sola's bc the right click can take down a high-health major or boss a little more quickly\nepic",
+            "hash": 2139640995,
+            "name": "pve",
+            "plugs": [
+                [
+                    3523296417,
+                    1749209109,
+                    3108830275,
+                    2590710093
+                ],
+                [
+                    4049631843,
+                    354401740,
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "chain reaction kills proc unrelenting / demo\ndien't or get grenade\ni'd put it slightly above sola's bc the right click can take down a high-health major or boss a little more quickly\nepic",
+            "hash": 2139640995,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    436053704,
+                    3666208348,
+                    938542991
+                ],
+                [
+                    269888150
+                ],
+                [
+                    3523296417,
+                    3108830275
+                ],
+                [
+                    2396489472
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        }
+    ]
+}

@@ -405,14 +405,20 @@
                     588594999,
                     1570042021,
                     1195158366,
-                    247725512
+                    247725512,
+                    1428297954,
+                    2450788523
                 ],
                 [
                     3047969693,
                     460017080,
                     1264398905,
                     1015611457,
-                    3511092054
+                    3511092054,
+                    438098033
+                ],
+                [
+                    2988596335
                 ]
             ],
             "tags": [
@@ -438,6 +444,9 @@
                 ],
                 [
                     3047969693
+                ],
+                [
+                    2988596335
                 ]
             ],
             "tags": [
@@ -464,13 +473,16 @@
                 ],
                 [
                     1168162263,
-                    247725512
+                    247725512,
+                    1428297954,
+                    1583705720
                 ],
                 [
                     4049631843,
                     3047969693,
                     1015611457,
-                    4104185692
+                    4104185692,
+                    438098033
                 ]
             ],
             "tags": [
@@ -491,10 +503,12 @@
                     2420895100
                 ],
                 [
-                    247725512
+                    247725512,
+                    1583705720
                 ],
                 [
-                    3047969693
+                    3047969693,
+                    4049631843
                 ]
             ],
             "tags": [
@@ -587,13 +601,21 @@
                 [
                     1359896290,
                     588594999,
-                    3643424744
+                    3643424744,
+                    1428297954,
+                    1570042021,
+                    2846385770
                 ],
                 [
                     3425386926,
                     3511092054,
                     2846385770,
-                    1264398905
+                    1264398905,
+                    2458213969,
+                    2896038713,
+                    438098033,
+                    3592538738,
+                    2610012052
                 ]
             ],
             "tags": [
@@ -603,7 +625,7 @@
         {
             "description": "this recommendation will probably be irrelevant when it gets reissued in s16 but whatever\narrowhead / counterbalance recommended\nrecommended mw: range",
             "hash": 3514144928,
-            "name": "god-pvp",
+            "name": "god-pvp-old",
             "plugs": [
                 [
                     839105230,
@@ -644,11 +666,18 @@
                     679225683
                 ],
                 [
-                    3643424744
+                    3643424744,
+                    1428297954,
+                    671806388
                 ],
                 [
                     3425386926,
-                    2848615171
+                    2848615171,
+                    2458213969,
+                    2896038713,
+                    438098033,
+                    3592538738,
+                    2610012052
                 ]
             ],
             "tags": [
@@ -673,7 +702,8 @@
                     3643424744
                 ],
                 [
-                    3425386926
+                    3425386926,
+                    2896038713
                 ]
             ],
             "tags": [
@@ -939,7 +969,8 @@
                     3436462433,
                     2866798147,
                     2450788523,
-                    2621346526
+                    2621346526,
+                    1428297954
                 ],
                 [
                     1546637391,
@@ -989,7 +1020,8 @@
                 ],
                 [
                     588594999,
-                    280464955
+                    280464955,
+                    1428297954
                 ],
                 [
                     957782887
@@ -1021,7 +1053,8 @@
                 ],
                 [
                     2213355989,
-                    1546637391
+                    1546637391,
+                    2896038713
                 ]
             ],
             "tags": [
@@ -1044,7 +1077,8 @@
                     3436462433
                 ],
                 [
-                    1546637391
+                    1546637391,
+                    2896038713
                 ]
             ],
             "tags": [
@@ -1070,8 +1104,15 @@
                     2946784966,
                     1359896290,
                     1570042021,
-                    706527188,
-                    588594999
+                    588594999,
+                    1428297954
+                ],
+                [
+                    1015611457,
+                    1890422124,
+                    3511092054,
+                    438098033,
+                    2610012052
                 ]
             ],
             "tags": [
@@ -1091,8 +1132,7 @@
                     3142289711
                 ],
                 [
-                    588594999,
-                    706527188,
+                    1428297954,
                     1359896290
                 ],
                 [
@@ -1148,7 +1188,8 @@
                 [
                     11612903,
                     1015611457,
-                    438098033
+                    438098033,
+                    2610012052
                 ]
             ],
             "tags": [
@@ -1168,11 +1209,11 @@
                     3230963543
                 ],
                 [
-                    1570042021,
-                    706527188
+                    1428297954
                 ],
                 [
-                    11612903
+                    11612903,
+                    2610012052
                 ]
             ],
             "tags": [
@@ -1203,7 +1244,9 @@
                     3425386926,
                     1264398905,
                     3673922083,
-                    438098033
+                    438098033,
+                    2652708987,
+                    124408337
                 ]
             ],
             "tags": [
@@ -1223,7 +1266,8 @@
                     689005463
                 ],
                 [
-                    1570042021
+                    1570042021,
+                    3436462433
                 ],
                 [
                     3673922083,
@@ -1246,11 +1290,13 @@
                 ],
                 [
                     2284787283,
-                    3400784728
+                    3400784728,
+                    3300816228
                 ],
                 [
                     1771339417,
-                    1546637391
+                    1546637391,
+                    2896038713
                 ]
             ],
             "tags": [
@@ -1272,7 +1318,8 @@
                     2284787283
                 ],
                 [
-                    1771339417
+                    1771339417,
+                    2896038713
                 ]
             ],
             "tags": [
@@ -1294,7 +1341,190 @@
                     3400784728
                 ],
                 [
-                    1771339417
+                    1771339417,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "this recommendation will probably be irrelevant when it gets reissued in s16 but whatever\narrowhead / counterbalance recommended\nrecommended mw: range",
+            "hash": 3514144928,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    839105230,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    1359896290,
+                    1428297954,
+                    2846385770
+                ],
+                [
+                    3511092054,
+                    2458213969
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "contingency plan enjoyers, rejoice! aisha's is a fantastic rapid-fire scout that gives you pretty much anything you could want from the other non-sunset options without many of their weaknesses. it sits at a usable 21 zoom (think rifle scope ssf), which is lower than servant leader's 26 but slightly higher than contingency's 20 and trustee's 19. any of the damage perks will get you a 3c1b 4 tap (with adagio giving you the tasty kill clip 2c2b), including the interesting new focused fury perk, which you could totally proc while peek shotting with a scout rifle. you can also spec into ultimate consistency with eye of the storm. while I generally recommend perpetual motion (it's pretty much the ultimate perk), it admittedly doesn't make a lot of sense on a scout, but it might save you if you get caught off guard. also, bungo is finally starting to put unrelenting in the left column, where it belongs. goaded gun.\nrecommended mw: handling or range",
+            "hash": 3245493570,
+            "name": "pvp",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1467527085,
+                    1840239774,
+                    202670084,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    679225683,
+                    1885400500
+                ],
+                [
+                    1428297954,
+                    2946784966,
+                    3108830275
+                ],
+                [
+                    2458213969,
+                    699525795,
+                    2896038713,
+                    3673922083
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ]
+        },
+        {
+            "description": "contingency plan enjoyers, rejoice! aisha's is a fantastic rapid-fire scout that gives you pretty much anything you could want from the other non-sunset options without many of their weaknesses. it sits at a usable 21 zoom (think rifle scope ssf), which is lower than servant leader's 26 but slightly higher than contingency's 20 and trustee's 19. any of the damage perks will get you a 3c1b 4 tap (with adagio giving you the tasty kill clip 2c2b), including the interesting new focused fury perk, which you could totally proc while peek shotting with a scout rifle. you can also spec into ultimate consistency with eye of the storm. while I generally recommend perpetual motion (it's pretty much the ultimate perk), it admittedly doesn't make a lot of sense on a scout, but it might save you if you get caught off guard. also, bungo is finally starting to put unrelenting in the left column, where it belongs. goaded gun.\nrecommended mw: handling or range",
+            "hash": 3245493570,
+            "name": "god-pvp",
+            "plugs": [
+                [
+                    1840239774,
+                    202670084,
+                    3250034553
+                ],
+                [
+                    1561002382,
+                    1885400500
+                ],
+                [
+                    1428297954,
+                    2946784966
+                ],
+                [
+                    2458213969,
+                    699525795
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ]
+        },
+        {
+            "description": "the mad men. they actually did it. triple tap + fourth time's the charm. the math is bonkers on this one, with a 20-round magazine using appended mag shooting all the way up to ONE HUNDRED AND SEVEN SHOTS WITHOUT RELOADING. it's overflow without the activation requirement. now, i'm not saying that this is a bad roll, but you shouldn't rule out more traditional ammo perk + damage perk options. stats for all actually bumps your stats up by an insane amount, and the all for all roll (stats for all + one for all) has a fun loop with a huge payoff. focused fury is also perfect for a scout.\nrecommended mw: handling or reload",
+            "hash": 3245493570,
+            "name": "pve",
+            "plugs": [
+                [
+                    1392496348,
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    3250034553,
+                    1482024992
+                ],
+                [
+                    2420895100,
+                    1431678320,
+                    1087426260,
+                    1968497646,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    3108830275,
+                    1583705720,
+                    3400784728,
+                    1428297954,
+                    3700496672
+                ],
+                [
+                    4049631843,
+                    1354429876,
+                    1546637391,
+                    3673922083,
+                    2458213969,
+                    2209918983,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "the mad men. they actually did it. triple tap + fourth time's the charm. the math is bonkers on this one, with a 20-round magazine using appended mag shooting all the way up to ONE HUNDRED AND SEVEN SHOTS WITHOUT RELOADING. it's overflow without the activation requirement. now, i'm not saying that this is a bad roll, but you shouldn't rule out more traditional ammo perk + damage perk options. stats for all actually bumps your stats up by an insane amount, and the all for all roll (stats for all + one for all) has a fun loop with a huge payoff. focused fury is also perfect for a scout.\nrecommended mw: handling or reload",
+            "hash": 3245493570,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    3400784728
+                ],
+                [
+                    4049631843,
+                    1354429876,
+                    2896038713
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
+        },
+        {
+            "description": "the mad men. they actually did it. triple tap + fourth time's the charm. the math is bonkers on this one, with a 20-round magazine using appended mag shooting all the way up to ONE HUNDRED AND SEVEN SHOTS WITHOUT RELOADING. it's overflow without the activation requirement. now, i'm not saying that this is a bad roll, but you shouldn't rule out more traditional ammo perk + damage perk options. stats for all actually bumps your stats up by an insane amount, and the all for all roll (stats for all + one for all) has a fun loop with a huge payoff. focused fury is also perfect for a scout.\nrecommended mw: handling or reload",
+            "hash": 3245493570,
+            "name": "god-pve",
+            "plugs": [
+                [
+                    1840239774,
+                    3250034553
+                ],
+                [
+                    2420895100
+                ],
+                [
+                    1583705720
+                ],
+                [
+                    4049631843,
+                    2896038713
                 ]
             ],
             "tags": [
